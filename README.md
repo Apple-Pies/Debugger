@@ -1,2 +1,2 @@
 # Debugger
-A Debugger made in 80 lines of Python!
+A Debugger made in 50 lines of Python!
